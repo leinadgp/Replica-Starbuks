@@ -31,9 +31,7 @@ A página foi desenvolvida com foco em **responsividade**, adaptando-se para tel
 ```bash
 ├── index.html
 ├── style.css
-├── assets/
-│   ├── images/
-│   │   ├── starbucks-desktop.png
-│   │   └── starbucks-mobile.png
-│   └── fonts/
+├── images/
+│   ├── starbucks-desktop.png
+│   └── starbucks-mobile.png
 └── README.md
