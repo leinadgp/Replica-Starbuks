@@ -14,6 +14,7 @@ Projeto de página promocional inspirado no visual do Starbucks. Desenvolvido co
 
 - HTML5
 - CSS3
+- JavaScript
 - Responsividade com Media Queries
 - Fontes personalizadas (Google Fonts)
 - Imagens otimizadas (PNG)
@@ -24,14 +25,3 @@ Projeto de página promocional inspirado no visual do Starbucks. Desenvolvido co
 
 A página foi desenvolvida com foco em **responsividade**, adaptando-se para telas de desktop, tablets e smartphones.
 
----
-
-## 📂 Estrutura do Projeto
-
-```bash
-├── index.html
-├── style.css
-├── images/
-│   ├── starbucks-desktop.png
-│   └── starbucks-mobile.png
-└── README.md
