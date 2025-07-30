@@ -6,7 +6,7 @@ Projeto de página promocional inspirado no visual do Starbucks. Desenvolvido co
 
 ## 🖼️ Demonstração
 
-![Starbucks Promo Page](./starbucks.png)
+
 
 ---
 
